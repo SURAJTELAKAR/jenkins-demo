@@ -1,3 +1,3 @@
 date
 echo "am from india"
-echo "hi"
+echo "hi ggh"
